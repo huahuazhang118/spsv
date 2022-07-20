@@ -13,7 +13,7 @@ systemctl enable docker
 
 #config
 read -p "Please Input Node_ID：" id
-apikey=spanscloudhuahua123
+apikey=sspanscloudhuahua123
 apihost=https://www.sspans.com 
 
 #docker_run

@@ -13,8 +13,8 @@ systemctl enable docker
 
 #config
 read -p "Please Input Node_ID：" id
-apikey=Kkk13Cloudhuahua123
-apihost=https://www.kkk13.club 
+apikey=TzCloudhuahua123
+apihost=https://ppup.cc 
 
 #docker_run
 docker run --restart=always --name v${id}  -d -v /etc/soga/:/etc/soga/ --network host v2raysrgo/crack-soga \
